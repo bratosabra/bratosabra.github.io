@@ -20,9 +20,8 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: fixed;
-    bottom: 0;
     width: 100%;
+    min-height: 60px; /* Установите минимальную высоту по вашему усмотрению */
 }
 
 footer p {
