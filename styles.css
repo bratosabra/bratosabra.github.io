@@ -2,35 +2,34 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}
-
-header {
+  }
+  
+  header {
     background-color: #333;
     color: white;
     text-align: center;
     padding: 1em;
-}
-
-section {
+  }
+  
+  section {
     margin: 20px;
-}
-
-footer {
+  }
+  
+  footer {
     background-color: #333;
     color: white;
     text-align: center;
     padding: 1em;
-    position: fixed;
-    bottom: 0;
     width: 100%;
-}
-
-footer p {
-    font-size: 20px; /* Регулируйте размер текста по вашему усмотрению */
-}
-
-footer img {
-    width: 30px; /* Регулируйте ширину изображения по вашему усмотрению */
-    height: auto; /* Автоматическое соотношение высоты и ширины */
-    margin-top: 10px; /* Добавьте отступ сверху по вашему усмотрению */
-}
+  }
+  
+  footer p {
+    font-size: 20px;
+  }
+  
+  footer img {
+    width: 30px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
