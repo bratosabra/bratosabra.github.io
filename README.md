@@ -33,10 +33,10 @@ _March 2022 — May 2022_
 
 ## **Education**
 
-* Moscow Technical University of Communications and Informatics (_March 2024_)</br>
-Faculty of Information Technology, Information Systems and Technology (Engineer) </br>
+* Moscow Technical University of Communications and Informatics (_March 2024_)
+Faculty of Information Technology, Information Systems and Technology (Engineer) 
 Graduate work [Development of an information system for managing the company's inventory](https://drive.google.com/file/d/1LiMY1dSLIjfOZFOnVuXlgwUMhKnQ6jiJ/view?usp=sharing)
 
-* College of Communication No.54 (_June 2020_) </br>
-Computer networks </br>
+* College of Communication No.54 (_June 2020_) 
+Computer networks 
 Graduate work [Configuring the SSH Remote Access Server](https://drive.google.com/file/d/1ei6NY7jlID0EUPUrzBkZ37WFbVZLd72P/view?usp=sharing)
