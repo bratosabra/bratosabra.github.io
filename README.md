@@ -36,4 +36,4 @@ Faculty of Information Technology, Information Systems and Technology (Engineer)
 
 * College of Communication No.54 (_June 2020_) </br>
 Computer networks </br>
-[Configuring the ssh Remote Access Server](pdf/Configuring the ssh Remote Access Server)
+[Configuring the ssh Remote Access Server](assets/pdf/Configuring the ssh Remote Access Server.pdf)
