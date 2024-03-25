@@ -30,6 +30,7 @@ A project to upgrade and migrate ~130 computers As part of the project to modern
 ## **Education**
 
 Moscow Technical University of Communications and Informatics (March 2024)
+
 Faculty of Information Technology, Information Systems and Technology (Engineer)
 
 
