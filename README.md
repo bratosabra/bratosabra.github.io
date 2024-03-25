@@ -17,7 +17,10 @@ _December 2022 — March 2024_
 ### **Lan-Serv**
 _September 2021 — March 2024_
 
-- Customer IT infrastructure maintenance (legal entities): User consultation and incident resolution; Remote administration of workstations; Setting up and maintaining email, including setting up email clients and managing user accounts.
+- Customer IT infrastructure maintenance (legal entities):
+  - User consultation and incident resolution;
+  - Remote administration of workstations;
+  - Setting up and maintaining email, including setting up email clients and managing user accounts.
 - Maintenance of EDS, CryptoPro, eToken, Rutoken, as well as in certificate management to ensure a high level of cryptographic security.
 - Experience in setting up IP telephony using Yealink, AudioCodes, Huawei, Snom phones.
 - Skills in setting up and maintaining various office equipment, including printers, scanners and other devices.
