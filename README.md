@@ -31,6 +31,9 @@ _March 2022 — May 2022_
 ## **Education**
 
 * Moscow Technical University of Communications and Informatics (_March 2024_)</br>
-Faculty of Information Technology, Information Systems and Technology (Engineer) 
+Faculty of Information Technology, Information Systems and Technology (Engineer) </br>
+[Development of an information system for managing the company's inventory](pdf/Development of an information system for managing the company's inventory)
+
 * College of Communication No.54 (_June 2020_) </br>
-Computer networks 
+Computer networks </br>
+[Configuring the ssh Remote Access Server](pdf/Configuring the ssh Remote Access Server)
