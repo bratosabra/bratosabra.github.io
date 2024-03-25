@@ -30,5 +30,7 @@ _March 2022 — May 2022_
 
 ## **Education**
 
-* Moscow Technical University of Communications and Informatics. Faculty of Information Technology, Information Systems and Technology (Engineer) (_March 2024_)
-* College of Communication No.54. Computer networks (_June 2020_)
+* Moscow Technical University of Communications and Informatics (_March 2024_)</br>
+Faculty of Information Technology, Information Systems and Technology (Engineer) 
+* College of Communication No.54 (_June 2020_) </br>
+Computer networks 
