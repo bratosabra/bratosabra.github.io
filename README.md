@@ -25,3 +25,13 @@ Skills in setting up and maintaining various office equipment, including printer
 Support for users and workplaces, solving user requests, installing, reinstalling computers, programs, etc.
 
 A project to upgrade and migrate ~130 computers As part of the project to modernize the IT infrastructure in the corporate environment, a successful transformation has been carried out, affecting a large number of laptops/PCs. The goal of the project was to upgrade the domain environment and operating systems from Windows 8/10 to the latest versions of Windows 10 22 H2. Installing SAP, MS Office, Teams libraries, transferring files
+
+
+## **Education**
+
+Moscow Technical University of Communications and Informatics (March 2024)
+Faculty of Information Technology, Information Systems and Technology (Engineer)
+
+
+College of Communication No.54 (June 2020)
+Computer networks
