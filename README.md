@@ -3,7 +3,7 @@
 ## Professional Experience
 
 ### **GEFCO Russia**
-December 2022 — March 2024
+_December 2022 — March 2024_
 
 - Server management and maintenance on SharePoint, Next cloud, and Exchange platforms.
 - Working with the Confluence platform to organize collaboration, create documentation and share information within the team.
@@ -15,7 +15,7 @@ December 2022 — March 2024
 - Maintenance of SIM cards for phones, connection/disconnection of services, activation, deactivation and problem solving.
 
 ### **Lan-Serv**
-September 2021 — March 2024
+_September 2021 — March 2024_
 
 - Customer IT infrastructure maintenance (legal entities): User consultation and incident resolution; Remote administration of workstations; Setting up and maintaining email, including setting up email clients and managing user accounts.
 - Maintenance of EDS, CryptoPro, eToken, Rutoken, as well as in certificate management to ensure a high level of cryptographic security.
@@ -23,15 +23,12 @@ September 2021 — March 2024
 - Skills in setting up and maintaining various office equipment, including printers, scanners and other devices.
 
 ### **Yokogawa Electric Corporation**
-March 2022 — May 2022
+_March 2022 — May 2022_
 
 - Support for users and workplaces, solving user requests, installing, reinstalling computers, programs, etc.
 - A project to upgrade and migrate ~130 computers As part of the project to modernize the IT infrastructure in the corporate environment, a successful transformation has been carried out, affecting a large number of laptops/PCs. The goal of the project was to upgrade the domain environment and operating systems from Windows 8/10 to the latest versions of Windows 10 22 H2. Installing SAP, MS Office, Teams libraries, transferring files
 
 ## **Education**
 
-Moscow Technical University of Communications and Informatics (March 2024)
-Faculty of Information Technology, Information Systems and Technology (Engineer)
-
-College of Communication No.54 (June 2020)
-Computer networks
+* Moscow Technical University of Communications and Informatics. Faculty of Information Technology, Information Systems and Technology (Engineer) (_March 2024_)
+* College of Communication No.54. Computer networks (_June 2020_)
