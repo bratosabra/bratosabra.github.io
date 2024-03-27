@@ -1,5 +1,5 @@
 title: Artem Kireev
 logo: assets/images/photo.png
 #description: text below image
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
