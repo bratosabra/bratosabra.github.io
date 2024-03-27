@@ -2,5 +2,4 @@ title: Artem Kireev
 logo: assets/images/photo.png
 description: System Administrator is an IT professional who is responsible for the maintenance and upkeep of computer systems and networks
 show_downloads: false
-theme: pages-themes/time-machine
-#jekyll-theme-minimal
+theme: jekyll-theme-minimal
