@@ -40,3 +40,9 @@ Graduate work [Development of an information system for managing the company's i
 * College of Communication No.54 (_June 2020_) <br>
 Computer network technician <br>
 Graduate work [Configuring the SSH Remote Access Server](https://drive.google.com/file/d/1ei6NY7jlID0EUPUrzBkZ37WFbVZLd72P/view?usp=sharing)
+
+## **Contact info:**
+
+* **Artem Kireev**
+* **Email:** bratosabra@yandex.ru
+* **LinkedIn:** [Artem Kireev](https://www.linkedin.com/in/bratosabra/)
