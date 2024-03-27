@@ -3,6 +3,7 @@
 ## Professional Experience
 
 ### **GEFCO Russia**
+#### Technical Support Engineer
 _December 2022 — March 2024_
 
 - Server management and maintenance on SharePoint, Next cloud, and Exchange platforms.
@@ -15,6 +16,7 @@ _December 2022 — March 2024_
 - Maintenance of SIM cards for phones, connection/disconnection of services, activation, deactivation and problem solving.
 
 ### **Lan-Serv**
+#### Technical Specialist
 _September 2021 — March 2024_
 
 - Customer IT infrastructure maintenance (legal entities):
@@ -26,6 +28,7 @@ _September 2021 — March 2024_
 - Skills in setting up and maintaining various office equipment, including printers, scanners and other devices.
 
 ### **Yokogawa Electric Corporation**
+#### IT Specialist
 _March 2022 — May 2022_
 
 - Support for users and workplaces, solving user requests, installing, reinstalling computers, programs, etc.
