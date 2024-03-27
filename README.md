@@ -1,10 +1,5 @@
 # System Administrator
 
-List of contents
-1. [Professional Experience](#Professional-Experience)
-2. [Education](#Education)
-3. [Contact info](#Contact-info)
-
 ## Professional Experience
 
 ### **GEFCO Russia**
