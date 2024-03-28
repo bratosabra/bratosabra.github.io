@@ -48,6 +48,6 @@ Graduate work [Configuring the SSH Remote Access Server](https://drive.google.co
 
 ## **Contact info:**
 
-* **Artem Kireev**
+* **Moscow**
 * **Email:** [bratosabra@yandex.ru](mailto:bratosabra@yandex.ru)
 * **LinkedIn:** [Artem Kireev](https://www.linkedin.com/in/bratosabra/)
