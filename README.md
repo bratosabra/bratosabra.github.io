@@ -18,23 +18,25 @@ _December 2022 — March 2024_
 #### Technical Specialist
 _September 2021 — March 2024_
 
-- Provided comprehensive IT infrastructure maintenance for legal entities within the customer base:
-  - Resolved user queries, troubleshooted technical issues, and offered guidance on efficient IT utilization.
-  - Performed remote administration of workstations for troubleshooting, software updates, and configuration management.
-  - Set up and maintained email systems, configured email clients, and managed user accounts for secure and efficient communication.
-- Maintained Electronic Document Management Systems (EDS), CryptoPro, eToken, Rutoken, and user certificates, ensuring a robust level of cryptographic security.
-- Configured and maintained IP telephony systems utilizing Yealink, AudioCodes, Huawei, and Snom phones for seamless communication.
-- Set up and maintained various office equipment like printers, scanners, and other devices, ensuring smooth operation and user productivity.
+- Maintenance of the customer's workstations (Windows / Linux / macOS) within the framework of diagnostics, installation, configuration of software, components, peripherals;
+- Configured servers (Windows Server 2016-2022) as part of the following actions: working with user accounts (AD), assigning rights to users on network resources (NTFS, ACL), installing network peripherals, restarting services (MMC, CMD), restarting the server, antivirus check (Kaspersky);
+- Advised clients in the field of computer technology, computer networks and software;
+- Provided support for the structured cabling system (SCS) in the framework of diagnostics, installation, configuration of passive and active entry-level network equipment, network breakage testing;
+- Supported cryptographic information security tools: CryptoPro, eToken, Rutoken and user certificates;
+- Set up and maintained IP telephony systems: Yealink, Audio Codes, Huawei and Snom;
+- Setup and maintenance of office equipment: HP, Kyocera, Canon;
+- Information security (IS): BitLocker, Kaspersky, Check Point Firewall, Acronis True Image, Veeam Backup & Replication, KeePass;
+- Carried out visits to customers to provide technical services under the contract;
 
 ### **Yokogawa Electric Corporation**
 #### IT Specialist
 _March 2022 — May 2022_
 
-- Provided comprehensive user and workplace support, resolving technical inquiries, performing software installations/reinstallations, and addressing computer-related issues.
-- Successfully led a large-scale IT infrastructure modernization project:
-  - Migrated and upgraded approximately 130 computers (laptops & PCs) as part of a corporate IT environment refresh.
-  - Upgraded the domain environment and operating systems from Windows 8/10 to the latest versions of Windows 10 22H2.
-  - Ensured seamless user transition by installing essential applications such as SAP, MS Office, Teams libraries, and facilitating file transfers.
+- Provided comprehensive support for users and workplaces, solved technical issues, performed software installation/reinstallation and solved computer-related problems.
+- Participated in a large-scale IT infrastructure modernization project:
+Migrated and upgraded about 130 computers (laptops and personal computers) as part of the corporate IT environment upgrade:
+  - Updated the domain environment and operating systems from Windows 8/10 to the latest versions of Windows 10 22/2.
+  - Ensured a smooth user transition by installing the necessary applications such as SAP, MS Office, Teams libraries, and simplifying file transfer.
 
 ## **Education**
 
