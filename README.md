@@ -6,7 +6,7 @@
 #### Technical Support Engineer
 _December 2022 — March 2024_
 
-- Performed ongoing administration, maintenance, and troubleshooting of critical servers running SharePoint, Nextcloud, and Exchange platforms, ensuring their optimal performance and availability.
+- Performed administration, maintenance, and troubleshooting of critical servers running SharePoint, Nextcloud, and Exchange platforms, ensuring their optimal performance and availability.
 - Utilized Confluence platform to streamline team collaboration, create comprehensive documentation, and facilitate efficient information sharing within the department.
 - Leveraged Zyxel Nebula cloud services (Nebula Control Center & Nebula Orchestrator) for license configuration, network stability maintenance, and guaranteed internet connectivity.
 - Implemented a system for equipment issuance, tracking, and data inventory, ensuring accurate asset tracking and reporting.
