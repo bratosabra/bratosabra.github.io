@@ -15,8 +15,8 @@ _September 2021 — March 2024_
 - Setup and maintenance of office equipment: HP, Kyocera, Canon;
 - Information security (IS): BitLocker, Kaspersky, Check Point Firewall, Acronis True Image, Veeam Backup & Replication, KeePass;
 - Carried out visits to customers to provide technical services under the contract;
----
-> [!IMPORTANT]
+
+> [!NOTE]
 > Outstaffing in the following companies:
 
 ### **GEFCO Russia**
