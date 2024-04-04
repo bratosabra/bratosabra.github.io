@@ -2,18 +2,6 @@
 
 ## Professional Experience
 
-### **GEFCO Russia**
-#### Technical Support Engineer
-_December 2022 — March 2024_
-
-- Performed administration, maintenance, and troubleshooting of critical servers running SharePoint, Nextcloud, and Exchange platforms, ensuring their optimal performance and availability.
-- Utilized Confluence platform to streamline team collaboration, create comprehensive documentation, and facilitate efficient information sharing within the department.
-- Leveraged Zyxel Nebula cloud services (Nebula Control Center & Nebula Orchestrator) for license configuration, network stability maintenance, and guaranteed internet connectivity.
-- Implemented a system for equipment issuance, tracking, and data inventory, ensuring accurate asset tracking and reporting.
-- Conducted regular IT technology and inventory audits to maintain a clear and up-to-date picture of the IT infrastructure.
-- Successfully implemented and maintained the Vipnet secure network platform system, safeguarding data integrity and network security.
-- Managed SIM cards for mobile devices, including connection/disconnection of services, activation, deactivation, and troubleshooting any arising issues.
-
 ### **Lan-Serv**
 #### Technical Specialist
 _September 2021 — March 2024_
@@ -27,6 +15,18 @@ _September 2021 — March 2024_
 - Setup and maintenance of office equipment: HP, Kyocera, Canon;
 - Information security (IS): BitLocker, Kaspersky, Check Point Firewall, Acronis True Image, Veeam Backup & Replication, KeePass;
 - Carried out visits to customers to provide technical services under the contract;
+
+### **GEFCO Russia**
+#### Technical Support Engineer
+_December 2022 — March 2024_
+
+- Performed administration, maintenance, and troubleshooting of critical servers running SharePoint, Nextcloud, and Exchange platforms, ensuring their optimal performance and availability.
+- Utilized Confluence platform to streamline team collaboration, create comprehensive documentation, and facilitate efficient information sharing within the department.
+- Leveraged Zyxel Nebula cloud services (Nebula Control Center & Nebula Orchestrator) for license configuration, network stability maintenance, and guaranteed internet connectivity.
+- Implemented a system for equipment issuance, tracking, and data inventory, ensuring accurate asset tracking and reporting.
+- Conducted regular IT technology and inventory audits to maintain a clear and up-to-date picture of the IT infrastructure.
+- Successfully implemented and maintained the Vipnet secure network platform system, safeguarding data integrity and network security.
+- Managed SIM cards for mobile devices, including connection/disconnection of services, activation, deactivation, and troubleshooting any arising issues.
 
 ### **Yokogawa Electric Corporation**
 #### IT Specialist
